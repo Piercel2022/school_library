@@ -15,7 +15,7 @@
 ## Getting Started
 
 To get a local copy of this project:
-1. CLone the repository (https://github.com/looh16/school_library)
+1. CLone the repository (https://github.com/Piercel2022/school_library)
 2. Change the directory to the cloned repo using cd command
 3. Open irb terminal
 4. Run the code
