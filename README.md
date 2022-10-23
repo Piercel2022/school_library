@@ -1,5 +1,3 @@
-# school_library
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # SCHOOL LIBRARY
 
