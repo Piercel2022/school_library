@@ -1,8 +1,12 @@
 [
   {
-    "occupation": "Teacher",
-    "name": "Paul",
-    "age": 34,
-    "specialization": "EEE"
+    "occupation": "Student",
+    "name": "Tom",
+    "age": 22
+  },
+  {
+    "occupation": "Student",
+    "name": "Pierre",
+    "age": 45
   }
 ]
