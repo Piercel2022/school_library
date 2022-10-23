@@ -25,6 +25,8 @@ class App
       @new_rental.create_new_rental
     when 6
       @new_rental.rent_list_by_id
+    when 7
+      exit
     end
   end
 end
